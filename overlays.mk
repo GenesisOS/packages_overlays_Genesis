@@ -41,6 +41,7 @@ PRODUCT_PACKAGES += \
 
 # Icon Shapes
 PRODUCT_PACKAGES += \
+    IconShapeIosOverlay \
     IconShapePebbleOverlay \
     IconShapeRiceBallsOverlay \
     IconShapeRoundedRectOverlay \
